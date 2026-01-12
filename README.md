@@ -23,7 +23,7 @@ SpinupWP 完全不一样。它的逻辑很简单：你自己租一台云服务�
 - 7天免费试用，不需要信用卡
 
 **云服务商配套优惠：**
-- 👉 [DigitalOcean 新用户送 $200 美元代金券](https://spinupwp.com/?referral=xJL1vPB5Nz)（有效期60天）
+-DigitalOcean 新用户送 $200 美元代金券（有效期60天）
 - Vultr 新用户送 $100 美元代金券
 - Akamai/Linode 新用户送 $100 美元代金券
 
@@ -184,7 +184,7 @@ Reddit 上也有不少开发者分享经验，有人说从 SiteGround 迁移到 
 
 1. 👉 [注册 SpinupWP 账号](https://spinupwp.com/?referral=xJL1vPB5Nz)（7天免费试用，不需要信用卡）
 2. 选择一个云服务器提供商：
-   - 👉 [DigitalOcean - 送 $200 代金券](https://spinupwp.com/?referral=xJL1vPB5Nz)
+   - DigitalOcean - 送 $200 代金券
    - Vultr - 送 $100 代金券
    - AWS、Google Cloud、Linode 也都支持
 3. 在 SpinupWP 控制面板连接你的服务器
